@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rizkifa4
-- 👀 I’m interested in Data Visualization
-- 🌱 I’m currently Data Science
+- 👀 I’m intereste
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
