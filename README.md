@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rizkifa4
-- 👀 I’m intereste
+- 👀 I’m interested in data analyst
+- 🌱 I’m currently learning flutter & data analyst
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
